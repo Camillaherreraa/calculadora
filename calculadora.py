@@ -20,3 +20,6 @@ print(f"Soma: {somar(a, b)}")
 print(f"Subtração: {subtrair(a, b)}")
 print(f"Multiplicação: {multiplicar(a, b)}")
 print(f"Divisão: {dividir(a, b)}")
+
+
+#diva das divas um beijo para vc diva
